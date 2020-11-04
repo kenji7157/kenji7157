@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a software developer at [Japan System Laboratory, Inc.](https://jsl.co.jp/) in Nagano.
+I'm a software developer.
 
 I like to develop web applications and love to contribute OSSs.
 
@@ -10,7 +10,14 @@ I like to develop web applications and love to contribute OSSs.
 - Basic knowledge of HTML, CSS, JavaScript and TypeScript
 - Developing web applications with Vue / Firebase
 - State management with Vuex
+- UI framework with OnsenUI / ElementUI / Vuetify
 - Writing tests with Jasmine / Karma / Jest
+
+## Speaking Engagements
+- 2020/6/18 Python Web Conf Online 
+https://2020.pythonwebconf.com/speakers/kenji-kawanobe
+- 2020/3/21 FOSSASIA OPENTECHSUMMIT SINGAPORE  
+https://summit.fossasia.org/event/schedule.html#6138
 
 <!--
 **kenji7157/kenji7157** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
