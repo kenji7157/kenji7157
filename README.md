@@ -16,11 +16,12 @@ I like to develop web applications and love to contribute OSSs.
 ## Speaking Engagements
 - 2020/6/18 Python Web Conf Online  
 https://2020.pythonwebconf.com/speakers/kenji-kawanobe  
-
-
+![pwcsnake2020](https://user-images.githubusercontent.com/18192657/98086057-8e4f1180-1ec1-11eb-9a1c-b077dcce1853.png)
 
 - 2020/3/21 FOSSASIA OPENTECHSUMMIT SINGAPORE  
-https://summit.fossasia.org/event/schedule.html#6138
+https://summit.fossasia.org/event/schedule.html#6138  
+![fossasia](https://user-images.githubusercontent.com/18192657/98086192-bf2f4680-1ec1-11eb-9053-1269193ea72b.png)
+
 
 <!--
 **kenji7157/kenji7157** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
