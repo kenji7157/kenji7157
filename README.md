@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 I'm a software developer at [Japan System Laboratory, Inc.](https://jsl.co.jp/) in Nagano.
 
