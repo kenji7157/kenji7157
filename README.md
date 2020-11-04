@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a software developer.
+I'm a software developer. Please follow me. [@kenji7157](https://twitter.com/kenji7157)
 
 I like to develop web applications and love to contribute OSSs.
 
