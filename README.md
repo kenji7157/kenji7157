@@ -6,6 +6,11 @@ I like to develop web applications and love to contribute OSSs.
 
 [![kenji7157 github stats](https://github-readme-stats.vercel.app/api?username=kenji7157&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
+## My skills
+- Basic knowledge of HTML, CSS, JavaScript and TypeScript
+- Developing web applications with Vue / Firebase
+- State management with Vuex
+- Writing tests with Jasmine / Karma / Jest
 
 <!--
 **kenji7157/kenji7157** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
