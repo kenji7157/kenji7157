@@ -14,7 +14,7 @@ I like to develop web applications and love to contribute OSSs.
 - Writing tests with Jasmine / Karma / Jest
 
 ## Speaking Engagements
-- 2020/6/18 Python Web Conf Online 
+- 2020/6/18 Python Web Conf Online  
 https://2020.pythonwebconf.com/speakers/kenji-kawanobe
 - 2020/3/21 FOSSASIA OPENTECHSUMMIT SINGAPORE  
 https://summit.fossasia.org/event/schedule.html#6138
