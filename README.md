@@ -11,7 +11,7 @@ I like to develop web applications and love to contribute OSSs.
 - Developing web applications with Vue / Firebase
 - State management with Vuex
 - UI framework with OnsenUI / ElementUI / Vuetify
-- Writing tests with Jasmine / Karma / Jest
+- Writing tests with Jest
 
 ## Speaking Engagements
 - 2020/6/18 Python Web Conf Online  
