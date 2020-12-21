@@ -2,7 +2,9 @@
 
 I'm a software engineer. Please follow me. [@kenji7157](https://twitter.com/kenji7157)
 
-I like to develop web applications and love to contribute OSSs.
+I like to develop web applications and love to contribute OSSs.  
+
+I live in Nagano prefecture, Japan. I'm from Tokyo, but I emigrated to Nagano.⛰🗻🦒
 
 [![kenji7157 github stats](https://github-readme-stats.vercel.app/api?username=kenji7157&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -14,10 +16,10 @@ I like to develop web applications and love to contribute OSSs.
 - Writing tests with Jest
 
 ### THE SIMPLIST  
-I created a TODO SNS app that looks like issue management.  
-The technology used is Firebase Vue.js Vuetify TypeScript.
+I created a TODO SNS app that looks like issue management.    
+The technology used is Firebase Vue.js Vuetify TypeScript.  
 
-The following is an explanatory video.
+The following is an explanatory video.  
 https://www.youtube.com/watch?v=HM9CQDDYo-s&t=3s
 
 ## Speaking Engagements
