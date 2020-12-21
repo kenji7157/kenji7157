@@ -13,6 +13,13 @@ I like to develop web applications and love to contribute OSSs.
 - UI framework with OnsenUI / ElementUI / Vuetify
 - Writing tests with Jest
 
+### THE SIMPLIST  
+I created a TODO SNS app that looks like issue management.  
+The technology used is Firebase Vue.js Vuetify TypeScript.
+
+The following is an explanatory video.
+https://www.youtube.com/watch?v=HM9CQDDYo-s&t=3s
+
 ## Speaking Engagements
 - 2020/6/18 Python Web Conf Online  
 https://2020.pythonwebconf.com/speakers/kenji-kawanobe  
