@@ -19,7 +19,7 @@ I live in Nagano prefecture, Japan. I'm from Tokyo, but I emigrated to Nagano.â›
 I created a TODO SNS app that looks like issue management.    
 The technology used is Firebase Vue.js Vuetify TypeScript.  
 
-The following is an explanatory video.  
+this is explanatory video.  
 https://www.youtube.com/watch?v=HM9CQDDYo-s&t=3s
 
 ## Speaking Engagements
