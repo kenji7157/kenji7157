@@ -15,13 +15,6 @@ I live in Nagano prefecture, Japan. I'm from Tokyo, but I emigrated to Nagano.�
 - UI framework with OnsenUI / ElementUI / Vuetify
 - Writing tests with Jest
 
-### THE SIMPLIST  
-I created a TODO SNS app that looks like issue management.    
-The technology used is Firebase Vue.js Vuetify TypeScript.  
-
-this is explanatory video.  
-https://www.youtube.com/watch?v=HM9CQDDYo-s&t=3s
-
 ## Speaking Engagements
 - 2020/6/18 Python Web Conf Online  
 https://2020.pythonwebconf.com/speakers/kenji-kawanobe  
@@ -31,6 +24,16 @@ https://2020.pythonwebconf.com/speakers/kenji-kawanobe
 https://summit.fossasia.org/event/schedule.html#6138  
 ![fossasia](https://user-images.githubusercontent.com/18192657/98086192-bf2f4680-1ec1-11eb-9053-1269193ea72b.png)
 
+### Hobby
+
+- runnnig🏃‍♂️  
+- programming💻
+
+I created a TODO SNS app that looks like issue management.    
+The technology used is Firebase Vue.js Vuetify TypeScript.  
+
+URL: https://the-simplist.web.app/
+Demo video: https://www.youtube.com/watch?v=HM9CQDDYo-s&t=3s
 
 <!--
 **kenji7157/kenji7157** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
