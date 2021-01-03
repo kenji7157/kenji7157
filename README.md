@@ -22,7 +22,7 @@ I live in Nagano prefecture, Japan. I'm from Tokyo, but I emigrated to Nagano.â›
 ![pwcsnake2020](https://user-images.githubusercontent.com/18192657/98086057-8e4f1180-1ec1-11eb-9a1c-b077dcce1853.png)
 
 - 2020/3/21 FOSSASIA OPENTECHSUMMIT SINGAPORE  
-https://summit.fossasia.org/event/schedule.html#6138  
+  - https://summit.fossasia.org/event/schedule.html#6138  
 ![fossasia](https://user-images.githubusercontent.com/18192657/98086192-bf2f4680-1ec1-11eb-9053-1269193ea72b.png)
 
 ### Hobby
