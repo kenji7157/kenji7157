@@ -32,7 +32,7 @@ https://summit.fossasia.org/event/schedule.html#6138
 I created a TODO SNS app that looks like issue management.    
 The technology used is Firebase Vue.js Vuetify TypeScript.  
 
-URL: https://the-simplist.web.app/
+URL: https://the-simplist.web.app/  
 Demo video: https://www.youtube.com/watch?v=HM9CQDDYo-s&t=3s
 
 <!--
