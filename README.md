@@ -33,9 +33,6 @@ I live in  Japan. I'm from Tokyo, but I emigrated to Nagano.⛰🗻🦒
 I created a TODO SNS app that looks like issue management.    
 The technology used is Firebase Vue.js Vuetify TypeScript.  
 
-URL: https://the-simplist.web.app/  
-Demo video: https://www.youtube.com/watch?v=HM9CQDDYo-s&t=3s
-
 <!--
 **kenji7157/kenji7157** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
