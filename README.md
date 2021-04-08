@@ -17,7 +17,6 @@ I live in  Japan. I'm from Tokyo, but I emigrated to Nagano.⛰🗻🦒
 
 ## Speaking Engagements
 - 2020/6/18 Python Web Conf Online  
-  - https://2020.pythonwebconf.com/speakers/kenji-kawanobe  
   - https://www.youtube.com/watch?v=-WXV0ljIJu0&list=PLt4L3V8wVnF4Z74tYJeFgTihj57gzQl4-&index=6
 ![pwcsnake2020](https://user-images.githubusercontent.com/18192657/98086057-8e4f1180-1ec1-11eb-9a1c-b077dcce1853.png)
 
