@@ -29,8 +29,9 @@ I live in  Japan. I'm from Tokyo, but I emigrated to Nagano.⛰🗻🦒
 - runnnig🏃‍♂️  
 - programming💻
 
-I created a TODO SNS app that looks like issue management.    
+I created service for recording and sharing programming learning.    
 The technology used is Firebase nuxt.js.  
+https://ticketnote.dev/en/
 
 <!--
 **kenji7157/kenji7157** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
