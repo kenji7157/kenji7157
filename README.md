@@ -4,7 +4,7 @@ I'm a software engineer. Please follow me. [@kenji7157](https://twitter.com/kenj
 
 I like to develop web applications and love to contribute OSSs.  
 
-I live in  Japan. I'm from Tokyo, but I emigrated to Nagano.⛰🗻🦒
+I live in  Japan. I'm from Tokyo, and I emigrated to Nagano.⛰🗻🦒
 
 [![kenji7157 github stats](https://github-readme-stats.vercel.app/api?username=kenji7157&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
