@@ -33,6 +33,10 @@ I created service for recording and sharing programming learning.
 The technology used is Firebase nuxt.js.  
 https://ticketnote.dev/en/
 
+![image](https://user-images.githubusercontent.com/18192657/120676878-71b79e00-c4d1-11eb-915a-7e1cf91af515.png)
+
+
+
 <!--
 **kenji7157/kenji7157** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
