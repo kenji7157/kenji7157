@@ -35,7 +35,7 @@ I live in  Japan. I'm from Tokyo, and I emigrated to Nagano.⛰🗻🦒
 - programming💻
 
 I created service for recording and sharing programming learning.    
-The technology used is Firebase nuxt.js.  
+The technology used is Firebase/Nuxt.js/TypeScript/GCP.  
 https://ticketnote.dev
 
 ![image](https://user-images.githubusercontent.com/18192657/120676878-71b79e00-c4d1-11eb-915a-7e1cf91af515.png)
