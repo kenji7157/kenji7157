@@ -21,7 +21,7 @@ I live in  Japan. I'm from Tokyo, and I emigrated to Nagano.⛰🗻🦒
 ![pwcsnake2020](https://user-images.githubusercontent.com/18192657/98086057-8e4f1180-1ec1-11eb-9a1c-b077dcce1853.png)
 
 - 2020/3/21 FOSSASIA OPENTECHSUMMIT SINGAPORE  
-  - https://summit.fossasia.org/event/speakers.html
+  - https://summit.fossasia.org/event/speakers.html  
 ![fossasia](https://user-images.githubusercontent.com/18192657/98086192-bf2f4680-1ec1-11eb-9053-1269193ea72b.png)
 
 
@@ -32,8 +32,8 @@ I live in  Japan. I'm from Tokyo, and I emigrated to Nagano.⛰🗻🦒
 - runnnig🏃‍♂️  
 - programming💻
 
-I created service for recording and sharing programming learning.    
-The technology used is Firebase/Nuxt.js/TypeScript/GCP.  
+I created service for recording and sharing programming learning.  
+Firebase/Nuxt.js/TypeScript/GCP.  
 https://ticketnote.dev
 
 ![image](https://user-images.githubusercontent.com/18192657/120676878-71b79e00-c4d1-11eb-915a-7e1cf91af515.png)
