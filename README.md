@@ -2,9 +2,7 @@
 
 I'm a software engineer. Please follow me. [@kenji7157](https://twitter.com/kenji7157)
 
-I like to develop web applications and love to contribute OSSs.  
-
-I live in  Japan. I'm from Tokyo, and I emigrated to Nagano.⛰🗻🦒
+I like to develop web applications and love to contribute OSSs. ⛰🗻🦒
 
 [![kenji7157 github stats](https://github-readme-stats.vercel.app/api?username=kenji7157&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -36,7 +34,11 @@ I created service for recording and sharing programming learning.
 Firebase/Nuxt.js/TypeScript/GCP.  
 https://ticketnote.dev
 
-![image](https://user-images.githubusercontent.com/18192657/120676878-71b79e00-c4d1-11eb-915a-7e1cf91af515.png)
+|EN|JP|
+|:--:|:--:|
+|<img width="1469" alt="image" src="https://user-images.githubusercontent.com/18192657/180582647-08b6245b-55ad-4b6c-a7a5-2ad2bfc76cc9.png">|<img width="1727" alt="image" src="https://user-images.githubusercontent.com/18192657/180582600-a3953deb-f14f-4c66-92be-46f5db2e516d.png">|
+
+
 
 
 
