@@ -36,7 +36,7 @@ https://ticketnote.dev
 
 |EN|JP|
 |:--:|:--:|
-|<img width="1469" alt="image" src="https://user-images.githubusercontent.com/18192657/180582647-08b6245b-55ad-4b6c-a7a5-2ad2bfc76cc9.png">|<img width="1727" alt="image" src="https://user-images.githubusercontent.com/18192657/180582600-a3953deb-f14f-4c66-92be-46f5db2e516d.png">|
+|<img width="1469" alt="image" src="https://user-images.githubusercontent.com/18192657/180582647-08b6245b-55ad-4b6c-a7a5-2ad2bfc76cc9.png">|<img width="1469" alt="image" src="https://user-images.githubusercontent.com/18192657/180582733-6412d496-11df-469f-bd63-eb612ceccfd0.png">|
 
 
 
