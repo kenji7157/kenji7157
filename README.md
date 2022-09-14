@@ -17,13 +17,16 @@ I like to develop web applications and love to contribute OSSs. ⛰🗻🦒
 
 - 2022/10/16 Vue Fes Japan Online 2022
   - https://vuefes.jp/2022/sessions/kenji7157  
+  - https://vuefes.jp/2022/#speakers  
 ![image](https://user-images.githubusercontent.com/18192657/190077213-37406df1-117e-4710-8eef-715027daef4d.png)
 
 - 2020/6/18 Python Web Conf Online  
-  - https://2020.pythonwebconf.com/speakers.html     
+  - https://2020.pythonwebconf.com/speakers/kenji-kawanobe.html 
+  - https://2020.pythonwebconf.com/speakers.html  
 ![pwcsnake2020](https://user-images.githubusercontent.com/18192657/98086057-8e4f1180-1ec1-11eb-9a1c-b077dcce1853.png)
 
 - 2020/3/21 FOSSASIA OPENTECHSUMMIT SINGAPORE  
+  - https://summit.fossasia.org/event/tracks.html#6138
   - https://summit.fossasia.org/event/speakers.html  
 ![fossasia](https://user-images.githubusercontent.com/18192657/98086192-bf2f4680-1ec1-11eb-9053-1269193ea72b.png)
 
