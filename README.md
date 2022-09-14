@@ -17,10 +17,7 @@ I like to develop web applications and love to contribute OSSs. ⛰🗻🦒
 
 - 2022/10/16 Vue Fes Japan Online 2022
   - https://vuefes.jp/2022/sessions/kenji7157  
-
-![image](https://user-images.githubusercontent.com/18192657/190056734-8bb923fc-6ffb-4abc-aac6-d5c3b8f6b29c.png)
-
-
+![image](https://user-images.githubusercontent.com/18192657/190077213-37406df1-117e-4710-8eef-715027daef4d.png)
 
 - 2020/6/18 Python Web Conf Online  
   - https://2020.pythonwebconf.com/speakers.html     
